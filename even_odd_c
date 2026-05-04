@@ -1,0 +1,14 @@
+# even-odd-c
+Simple C program to check whether a number is even or odd using if-else.
+
+# Even Odd Checker (C)
+
+This is a simple C program that checks whether a number is even or odd using if-else statements.
+
+## How to Run
+1. Compile the program using a C compiler  
+2. Run the executable file  
+3. Enter a number  
+
+## Output
+- Displays whether the number is Even or Odd
